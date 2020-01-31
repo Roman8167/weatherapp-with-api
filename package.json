@@ -1,0 +1,14 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "A weather app created by 17 year old programmer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Khadka",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
